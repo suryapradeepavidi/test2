@@ -5,7 +5,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Main {
-//delay for 6 sec
+//delay for 6 sec test1
     long delay = 6 * 1000;
     LoopTask task = new LoopTask();
     Timer timer = new Timer("TaskName");
